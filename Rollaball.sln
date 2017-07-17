@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rollaball.Plugins", "Rollaball.Plugins.csproj", "{0B08232C-A895-C5E8-A362-5D95A01B45F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rollaball", "Rollaball.csproj", "{A8A1EED5-AAE6-CD5C-76B7-215979FFEE72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rollaball.Editor.Plugins", "Rollaball.Editor.Plugins.csproj", "{774C1145-4D7B-DD36-CBC1-F96C2C5091E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B08232C-A895-C5E8-A362-5D95A01B45F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B08232C-A895-C5E8-A362-5D95A01B45F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B08232C-A895-C5E8-A362-5D95A01B45F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B08232C-A895-C5E8-A362-5D95A01B45F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8A1EED5-AAE6-CD5C-76B7-215979FFEE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A1EED5-AAE6-CD5C-76B7-215979FFEE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A1EED5-AAE6-CD5C-76B7-215979FFEE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A1EED5-AAE6-CD5C-76B7-215979FFEE72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{774C1145-4D7B-DD36-CBC1-F96C2C5091E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774C1145-4D7B-DD36-CBC1-F96C2C5091E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774C1145-4D7B-DD36-CBC1-F96C2C5091E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774C1145-4D7B-DD36-CBC1-F96C2C5091E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
